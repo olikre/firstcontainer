@@ -1,4 +1,4 @@
-# Datei Dokerfile 2
+# Datei Dokerfile
 FROM ubuntu:16.04
 LABEL maintainer "oliver.krebs@me.com"
 LABEL description "First Container"
